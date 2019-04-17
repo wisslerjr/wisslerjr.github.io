@@ -4,11 +4,13 @@ title: Informações
 permalink: /info/
 ---
 
-Some information about you!
+Olá! Meu nome é Wissler Botelho Barroso Júnior, sou Administrador e Especialista em Gestão e Liderança Executiva.
+Meus tópicos preferidos são tecnologia, administração, cinema e astronomia. Bem vindo ao meu site! 
 
-### More Information
+Cursos
 
-A place to include any other types of information that you'd like to include about yourself.
+Atualmente ministro o curso BMC: Da ideia ao seu primeiro negócio!, na Udemy!
+Clicando <A href="https://www.udemy.com/bmc-da-ideia-ao-seu-primeiro-negocio/?couponCode=PROMO2019">aqui</A>, você ganha um super desconto!
 
 ### Contact me
 
