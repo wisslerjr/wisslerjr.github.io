@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Bolão do GoT - 8ª Temporada!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Olá meu amigo, se você chegou aqui é porque tem interesse em palpitar no bolão do GoT organizado por minha pessoa, para meus amigos!
+<b>Certifique-se de ter uns 5 minutinhos para completar o bolão!</b>
+É rapidinho!
+Os resultados do bolão serão divulgados aqui no fim da temporada!
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
