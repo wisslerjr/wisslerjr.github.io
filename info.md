@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sobre
-permalink: /sobre/
+title: Informações
+permalink: /info/
 ---
 
 Some information about you!
