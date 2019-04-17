@@ -10,7 +10,7 @@ Meus tópicos preferidos são tecnologia, administração, cinema e astronomia. 
 ### Cursos
 
 Atualmente ministro o curso BMC: Da ideia ao seu primeiro negócio!, na Udemy!
-Clicando <A href="https://www.udemy.com/bmc-da-ideia-ao-seu-primeiro-negocio/?couponCode=PROMO2019">aqui</A>, você ganha um super desconto!
+<A href="https://www.udemy.com/bmc-da-ideia-ao-seu-primeiro-negocio/?couponCode=PROMO2019">Clicando aqui</A>, você ganha um super desconto!
 
 ### Entre em contato:
 
